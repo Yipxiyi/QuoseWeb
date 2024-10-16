@@ -6,6 +6,8 @@ app:
 footer:
   copyright: ©2024 All rights reserved
   links:
+    - title: Quose
+      url: /index
     - title: Privacy Policy
       url: /privacy-policy
     - title: Terms & Services

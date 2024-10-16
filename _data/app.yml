@@ -1,9 +1,9 @@
 name: Quose
 description: Quotes, Thoughts, Unlimited insights.
 full_description: Quose is a flash note app designed for better and faster note-taking. Gather all your quotes, thoughts, and insights in one place.
-android: 
+# android: 
 iOS: https://apps.apple.com/app/quose/id6596740814
-web: 
+# web: 
 screenshots:
   - 1.png
   - 2.png
