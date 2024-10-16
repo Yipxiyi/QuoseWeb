@@ -16,25 +16,25 @@ Quose offers a Pro subscription that provides access to premium features. Subscr
 
 Your subscription will renew automatically at the end of each term unless you or the developer cancel it. All subscription billing is processed through the App Store and is subject to the App Store's terms and conditions.
 
-## Quose Pro Lifetime
+### Quose Pro Lifetime
 
 Quose also offers a one-time purchase option for a Lifetime Pro license. This license grants you unlimited access to the premium features available at the time of purchase until the service ends. Future premium features introduced after your purchase may not be included. All payment processing is managed by the App Store, adhering to its rules and policies.
 
-## Discounts and Promotional Codes
+### Discounts and Promotional Codes
 
 Quose may occasionally offer special discounts or promotional codes for reduced prices on Quose Pro. Discounts are adjusted according to your local currency, so the exact discount amount might vary slightly based on your location. Accurate details regarding billing periods, discount rates, and renewal costs in your local currency will be provided before you complete your subscription.
 
-## App and Service Availability
+### App and Service Availability
 
 The app developer retains the right to discontinue the service at any time. This could involve halting feature updates, ending support for server-based functions, or even removing the app from the App Store. In such cases, you may still use the app already installed on your device, but its functionality and compatibility with future operating systems might be affected.
 
-## Future Modifications
+### Future Modifications
 
 We may update our Terms & Conditions from time to time. We recommend visiting this page regularly to stay informed about any changes to the policies that govern your use of Quose.
 
 ---
 
-# APPLICATION END USER LICENSE AGREEMENT
+## APPLICATION END USER LICENSE AGREEMENT
 
 Apps made available through the App Store are licensed, not sold, to you. Your license to each App is subject to your prior acceptance of either this Licensed Application End User License Agreement (“Standard EULA”), or a custom end user license agreement between you and the Application Provider (“Custom EULA”), if one is provided. Your license to any Apple App under this Standard EULA or Custom EULA is granted by Apple, and your license to any Third Party App under this Standard EULA or Custom EULA is granted by the Application Provider of that Third Party App. Any App that is subject to this Standard EULA is referred to herein as the “Licensed Application.” The Application Provider or Apple as applicable (“Licensor”) reserves all rights in and to the Licensed Application not expressly granted to you under this Standard EULA.
 
