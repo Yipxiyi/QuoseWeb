@@ -7,5 +7,11 @@
                 "paths": [ "*" ]
             }
         ]
+    },
+    "webcredentials": {
+       "apps": [ "84RK94356B.com.oddStudio.Quose" ]
+    },
+    "appclips": {
+        "apps": ["84RK94356B.com.oddStudio.Quose.Clip"]
     }
 }
