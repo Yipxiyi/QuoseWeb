@@ -5,7 +5,7 @@
 
 title: Quose
 email: odd-studio@outlook.com
-description: Quotes, Thoughts, Unlimited insights.
+description: 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.oddstudio.site" # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: '#efeeff'
